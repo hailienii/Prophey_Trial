@@ -1,5 +1,5 @@
 # MSBA Market Trend Project 
-- Time Series Forecasting with Facebook Prophet in Python  
+Time Series Forecasting with Facebook Prophet in Python  
 
 Team member: 
 
