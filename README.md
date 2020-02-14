@@ -1,5 +1,5 @@
-# Prophey_Trial
-MSBA Market Trend Project - Time Series Forecasting with Prophet in Python  
+# Prophet
+MSBA Market Trend Project - Time Series Forecasting with Facebook Prophet in Python  
 
 Team member: 
 
